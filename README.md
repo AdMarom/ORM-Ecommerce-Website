@@ -3,7 +3,7 @@
 
 
 ## Description 
-A back-end e-commerce site using express.js and sequilize intercting with a mySQL database.
+A back-end e-commerce site using express.js and sequilize interacting with a mySQL database.
 
 ## Table of Contents
 
@@ -25,11 +25,11 @@ Go to terminal and use commands "npm install", "npm run seed", and "npm start"
 
 ## Credits
 
-Starter Code: https://github.com/coding-boot-camp/fantastic-umbrella ![GitHub] (https://github.com/Xandromus)!
+Starter Code: ![GitHub](https://github.com/coding-boot-camp/fantastic-umbrella) ![GitHub](https://github.com/Xandromus)
 
 ## Vimeo
 
-[Walk Through] (https://vimeo.com/814089428)
+[Walk Through](https://vimeo.com/814089428)
 
 
 ## Questions
